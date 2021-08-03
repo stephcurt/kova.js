@@ -41,7 +41,7 @@
     "rollup-plugin-node-resolve": "^5.0.1",
     "rollup-plugin-terser": "^5.0.0",
     "xml2js-es6-promise": "^1.1.1",
-    "xmldom": "^0.1.27"
+    "xmldom": "^0.6.0"
   },
   "scripts": {
     "build": "rollup -c",
